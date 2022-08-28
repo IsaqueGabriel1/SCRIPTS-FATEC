@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container2{
+    position: relative;
+    top: 20px;
+    left: 35%;
+    width: 600px;
+    height: 150px;
+    margin-bottom: 100px;
+    text-align: center;
+    background: rgb(255, 153, 0);
+    border-radius: 5px;
+}
+
+#container{
+    position: relative;
+    left: 35%;
+    width: 600px;
+    height: 250px;
+    text-align: center;
+}
+
+#cf1{
+    border: 1px solid rgba(0, 0, 0, 0.171);
+}
+
+#titulo{
+    background: #272727;
+    color: #ff7b00;
+    padding: 10px;
+}
+
+#texto{
+    padding: 20px;
+}
+
+#header{
+    padding: 50px;
+}
